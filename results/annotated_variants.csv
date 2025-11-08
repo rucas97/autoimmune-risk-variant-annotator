@@ -1,0 +1,6 @@
+rs_id,chrom,pos,pval,trait,Unnamed: 6,overlaps_regulatory
+rs2476601,1,114377568,2e-08,Type 1 Diabetes,nan,False
+rs6679677,1,113834091,1.1e-10,Graves disease,nan,True
+rs9268645,6,32653159,5e-09,Rheumatoid arthritis,nan,True
+rs2104286,10,6062358,9e-07,Multiple sclerosis,nan,True
+rs3087243,2,204470022,3.2e-08,Systemic lupus,nan,False

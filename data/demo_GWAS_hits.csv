@@ -1,0 +1,7 @@
+| rs_id | chrom | pos | pval | trait |
+| --- | --- | --- | --- | --- |
+| rs2476601 | 1 | 114377568 | 2e-8 | Type 1 Diabetes |
+| rs6679677 | 1 | 113834091 | 1.1e-10 | Graves disease |
+| rs9268645 | 6 | 32653159 | 5e-9 | Rheumatoid arthritis |
+| rs2104286 | 10 | 6062358 | 9e-7 | Multiple sclerosis |
+| rs3087243 | 2 | 204470022 | 3.2e-8 | Systemic lupus |
